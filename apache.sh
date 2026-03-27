@@ -7,3 +7,5 @@ sudo apt install apache2
 
 #print hello world
 echo "hello world"
+
+echo "hello from the feature2"
