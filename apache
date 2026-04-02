@@ -1,3 +1,9 @@
 #!bin/bash/
 echo "hello devops i am learning git "
 
+<<<<<<< HEAD
+=======
+
+echo "annoted tagging examples"
+
+>>>>>>> developer
